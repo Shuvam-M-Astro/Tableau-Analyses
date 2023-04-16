@@ -8,3 +8,6 @@ Titanic Dataset
 
 Twitch Dataset
 ![Screenshot_192](https://user-images.githubusercontent.com/96789016/232325200-27252d29-c7dd-4d6f-b977-2d9482dbf4ae.png)
+
+Heart Disease Dataset
+![Screenshot_193](https://user-images.githubusercontent.com/96789016/232326512-31f3469b-e7e6-4b45-982a-b64856337fe9.png)
